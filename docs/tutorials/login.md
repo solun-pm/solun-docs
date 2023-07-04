@@ -2,11 +2,8 @@
 sidebar_position: 2
 ---
 
-import LoginImage from '@site/src/components/LoginImage'
 
 # Login
-
-<LoginImage imgSrc="/img/login_account.gif" />
 
 Follow these steps to login to your account on **auth.solun.pm**:
 
