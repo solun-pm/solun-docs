@@ -71,7 +71,7 @@ const config = {
         },
         items: [
           {to: '/docs/category/tutorials', label: 'Tutorials', position: 'left'},
-          {to: '/docs/category/deploy', label: 'Deploy', position: 'left'},
+          {to: '/docs/category/deploy-yourself', label: 'Deploy', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/solun-pm',
