@@ -25,6 +25,6 @@ Follow these steps to login to your account on **auth.solun.pm**:
 
 Please note that some password managers may only store your username and not include the domain suffix. Therefore, always ensure that you have correctly included the domain suffix when logging in.
 
-If you encounter any issues or forget your password, look for a 'Forgot your password?' link on the login page. [How to Recover your Account](/docs/tutorials/account-recovery).
+If you encounter any issues or forget your password, look for a 'Forgot your password?' link on the login page. [How to Recover your Account](/docs/tutorials/auth/account-recovery).
 
 If the issues persist, I recommend you to contact the website's help or support per mail to [support@solun.pm](mailto:support@solun.pm).
